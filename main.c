@@ -2,6 +2,6 @@
 #include <stdio.h>
 int main(void)
 {
- printf("⼿書きレポート");
+ printf("⼿書きレポート\n");
  return 0;
 }
